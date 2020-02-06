@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: gray;
+}
+
+#body{
+    margin-top: -20px;
+    padding: 0px;
+    height: 100vh;
+    align-content: center;
+    text-align: center;
+}
+h3{
+    margin-top: -20px;
+}
+
+#container{
+    border: 2px solid black;
+    border-style: dotted;
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    margin: 0 auto;
+    font-size: 250px;
+    line-height: 500px;
+}
+
+input{
+    height: 40px;
+    width: 200px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 20px;
+    border: 2px solid black;
+}
